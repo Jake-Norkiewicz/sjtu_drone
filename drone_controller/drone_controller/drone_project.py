@@ -27,7 +27,6 @@ class DroneController(Node):
         self.square_size = 3.0
         self.accuracy = 0.01
         self.goals = [[self.square_size, 0.0], [self.square_size, self.square_size], [0.0, self.square_size], [0.0, 0.0]]
-        #self.goals_numbers = [0,1,2,3]
 
         # Feel fre to fill with your code! Add some objects to represent a goal points to achieve
 
@@ -95,7 +94,7 @@ class DroneController(Node):
 
         # HINT: Use a self.command_pub to publish a command
         # Fill with your code!
-        print("Published!", "CURRENT GOAL:", current_goal_x, " ", current_goal_y)
+        print("Published!", "Current goal point:", current_goal_x, ", ", current_goal_y)
 
 
 
