@@ -1,6 +1,6 @@
 # sjtu_drone
 
-#Projekt Drona w ROS2 Jakub Norkiewicz 156537
+# Projekt Drona w ROS2 Jakub Norkiewicz 156537
 
 [![Humble](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/NovoG93/589e4b4dc8d92861e4b92defff6d56c0/raw/_humble_build.json)](https://github.com/NovoG93/sjtu_drone/actions/workflows/build.yml) [![Rolling](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/NovoG93/589e4b4dc8d92861e4b92defff6d56c0/raw/_rolling_build.json)](https://github.com/NovoG93/sjtu_drone/actions/workflows/build.yml)
 
